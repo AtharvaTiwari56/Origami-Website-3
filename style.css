@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(red,fuchsia);
+    
+}
+
+header {
+    font-size: 200%; 
+    text-align: center; 
+    color: #008888;
+    
+}
+
+img {
+    margin-left: 5px;
+    padding: 5px;
+    border: 2px solid turquoise;
+}
+
+.Header {
+    background-color: chartreuse;
+    font-family: 'Lucida Calligraphy';    
+}
+
+.Content p{
+    color: rgb(0, 225, 255);
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Content {
+    font-family: 'Harrington';
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+h2 {
+    border: 2px dotted black;
+    color: yellow ;
+}
+
+li {
+    font-size: 150%;
+    color: white;
+}
+
+ul {
+    border: 5px solid gold;
+}
